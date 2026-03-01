@@ -1,0 +1,6 @@
+# Vibe-to-Ship Orchestrator
+
+```bash
+pip install crewai langchain-openai  # or use Anthropic
+export OPENAI_API_KEY=...
+python main.py "Build an agentic discharge coordinator for large healthcare"
