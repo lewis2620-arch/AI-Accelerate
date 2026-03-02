@@ -34,6 +34,20 @@ If you’re a PM who wants to stop watching the agentic future and start shaping
 - **PRD gallery + workflows** — copy-paste templates and guided sequences
 - **Playground app** — test anything in browser
 
+- ## How to Navigate This Repo
+
+| Section | What You'll Find | Best For |
+|---------|------------------|----------|
+| **01–04** (top-level) | Agentic Product Thesis, Evaluation Framework, Workflow Design Patterns, Governance Model | Strategic thinking & frameworks |
+| **portfolio-stack/** | Full anonymized shipped projects with outcomes | Real-world proof |
+| **frameworks/** | EDGE, PRISM, PLG, FITR, 5-layer stack | Your operating models |
+| **skills/** | 46+ adapted Dean skills + originals | MCP-ready templates |
+| **agents/** | Runnable Vibe-to-Ship + Polaris + EDGE Govern orchestrators | Try it yourself |
+| **playground/** | Streamlit app to test everything | Quick demos |
+| **mcp/** | One-click context file | Load into Claude Code/Cursor |
+
+Start with the **01-Agentic-Product-Thesis.md** for the big picture, then explore the runnable agents or skills.
+
 Built to Aakash Gupta’s PM GitHub standards: every demo reads like a thoughtful PRD with clear problem/solution/tradeoffs/learnings.
 
 ---
