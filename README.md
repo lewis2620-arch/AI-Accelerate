@@ -48,7 +48,7 @@ If you’re a PM who wants to stop watching the agentic future and start shaping
 
 Start with the **01-Agentic-Product-Thesis.md** for the big picture, then explore the runnable agents or skills.
 
-Built to Aakash Gupta’s PM GitHub standards: every demo reads like a thoughtful PRD with clear problem/solution/tradeoffs/learnings.
+Agentic AI PM GitHub standards: every demo reads like a thoughtful PRD with clear problem/solution/tradeoffs/learnings.
 
 ---
 
