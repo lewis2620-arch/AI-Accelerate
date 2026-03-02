@@ -1,59 +1,83 @@
-# AI Accelerate  
-**The open-source agentic Product Operating System for PMs who build in the real world**
-
-Workflow-first frameworks, MCP-ready skills, real PRDs, and runnable multi-agent prototypes that turn fragmented operations into governed, autonomous systems — especially in regulated industries like healthcare, cybersecurity, finance, and industrial.
-
-Built so every product leader can thrive in the agentic era.
+# AI Accelerate
+**The AI PM Operating System for the Agentic Era**
+*David Lewis | Product Edge | March 2026*
 
 ---
 
-### My Story
+## What This Repo Is
 
-When generative AI and agentic systems exploded onto the scene, a lot of us non-engineering product leaders felt the same sting: “You can’t code” was still being used as a quiet barrier.
+A complete operating system for AI Product Managers — frameworks, skills, working agents, and a portfolio of shipped agentic systems in regulated industries.
 
-I refused to accept that.
-
-I had spent years honing my craft through deep customer empathy, outcome-driven frameworks, and cross-functional leadership — heavily inspired by Marty Cagan’s Product Operating Model and the best product thought leaders who proved that great products come from clarity, not just code.
-
-So I treated the agentic wave as my biggest upskilling opportunity yet.
-
-I started building in public. I took on consulting and advisory work with large healthcare systems and Big 4 consulting engagements. I learned to vibe-code with Claude Code, Cursor, and MCP. I shipped real agentic products that move organizations from static dashboards to autonomous, governed workflow infrastructure.
-
-This repo is the living result: a complete, free, public operating system that blends battle-tested PM skills, my proprietary frameworks, and original agentic prototypes you can run today.
-
-If you’re a PM who wants to stop watching the agentic future and start shaping it — welcome. This is built for you.
+Built for PMs who want to think clearly about AI, build real things, and lead teams shipping agentic products safely.
 
 ---
 
-### What You’ll Find Here
+## What's Inside
 
-- **60+ MCP-ready skills** — adapted from the best open-source libraries + brand-new 2026 agentic originals
-- **My full shipped portfolio** — real examples of agentic systems delivered in regulated environments (anonymized)
-- **Proprietary frameworks** — EDGE, PRISM, PLG, FITR + the new 5-layer Agentic Infrastructure Stack
-- **Runnable agents** — multi-agent orchestrators you can fork and run in minutes
-- **PRD gallery + workflows** — copy-paste templates and guided sequences
-- **Playground app** — test anything in browser
+### `/frameworks` — Product Edge Methodology
+Four battle-tested frameworks for AI product leadership:
 
-- ## How to Navigate This Repo
+| Framework | Purpose |
+|---|---|
+| [EDGE](./frameworks/EDGE.md) | Outcome-driven product operations (Empathize → Define → Govern → Evolve) |
+| [PRISM](./frameworks/PRISM.md) | Responsible agentic AI platform strategy |
+| [PLG](./frameworks/PLG.md) | Product-led growth for agentic tools |
+| [FITR](./frameworks/FITR.md) | Competitive infiltration strategy |
+| [Agentic Infrastructure](./frameworks/agentic-infrastructure.md) | 5-layer architecture for regulated agentic systems |
 
-| Section | What You'll Find | Best For |
-|---------|------------------|----------|
-| **01–04** (top-level) | Agentic Product Thesis, Evaluation Framework, Workflow Design Patterns, Governance Model | Strategic thinking & frameworks |
-| **portfolio-stack/** | Full anonymized shipped projects with outcomes | Real-world proof |
-| **frameworks/** | EDGE, PRISM, PLG, FITR, 5-layer stack | Your operating models |
-| **skills/** | 46+ adapted Dean skills + originals | MCP-ready templates |
-| **agents/** | Runnable Vibe-to-Ship + Polaris + EDGE Govern orchestrators | Try it yourself |
-| **playground/** | Streamlit app to test everything | Quick demos |
-| **mcp/** | One-click context file | Load into Claude Code/Cursor |
+### `/skills/original-agentic` — 51 AI PM Skills
+Original skills library for the agentic era. 7 categories, 51 skills, each with purpose, concepts, PM application, pitfalls, agentic upgrade, and regulated industry notes.
 
-Start with the **01-Agentic-Product-Thesis.md** for the big picture, then explore the runnable agents or skills.
+| Category | Skills | Focus |
+|---|---|---|
+| A — Foundations | 01-08 | LLM literacy, RAG, model selection, AI FinOps |
+| B — Prompt Engineering | 09-14 | Prompting, system prompts, CoT, versioning |
+| C — Agentic Design | 15-23 | Orchestration, HITL, memory, tools, escalation |
+| D — Evaluation | 24-31 | Eval frameworks, LLM-as-judge, drift, metrics |
+| E — Governance | 32-39 | Risk, responsible AI, regulatory, audit trails |
+| F — Strategy | 40-46 | Opportunity, moats, pricing, GTM, roadmap |
+| G — Builder Skills | 47-51 | Vibe-coding, MCP, prototyping, PM-to-agent |
 
-Agentic AI PM GitHub standards: every demo reads like a thoughtful PRD with clear problem/solution/tradeoffs/learnings.
+### `/agents` — Working Agents
+Real, runnable agents demonstrating the skills library in practice:
+
+| Agent | What It Does |
+|---|---|
+| [Clinical Triage Agent](./agents/clinical-triage-agent/) | 3-agent pipeline: classify → draft → safety-review physician inbox messages |
+| [PM Copilot Agent](./agents/pm-copilot-agent/) | 5-mode AI assistant powered by the full 51-skill library |
+| [Vibe-to-Ship Orchestrator](./agents/vibe-to-ship-orchestrator/) | Multi-agent CrewAI crew: idea → full PRD with PRISM guardrails |
+
+### `/portfolio-stack` — Shipped Portfolio
+Anonymized case studies of real agentic systems shipped in regulated industries:
+
+**Health-Tech**: EmpowerCare, Clinical In-Basket Copilot, Discharge Coordinator, Gravitas Surgical Ops, Population Health Navigator
+
+**Enterprise & Cyber**: Polaris Document Intelligence, Sentra AI, Helios Financial Risk, AgentOps Governance
+
+### `/mcp` — MCP Context
+Load `mcp/context.md` into Claude Code or Cursor to activate the full AI Accelerate PM Agent — instant access to all frameworks, skills, and portfolio context in your IDE.
 
 ---
 
-### Quick Start (3 minutes)
+## How to Use This Repo
 
-```bash
-git clone https://github.com/lewis2620-arch/AI-Accelerate.git
-cd AI-Accelerate
+**As a PM building AI products**: Start with `/frameworks/EDGE.md` and `/frameworks/PRISM.md`, then find the relevant skills in `/skills/original-agentic/`.
+
+**As an interview candidate**: The `/agents/pm-copilot-agent/` Interview Prep mode is built for you. Load a question, get a framework-grounded answer.
+
+**As a developer**: Each agent in `/agents/` is a working prototype. Clone, add your API key, run.
+
+**With Claude Code / Cursor**: Add `mcp/context.md` as context. Ask "help me design a clinical triage agent" and get responses grounded in the full skills library.
+
+---
+
+## Philosophy
+
+> *Governance is what makes autonomy safe. Workflow-first design beats feature-first every time. Agents earn trust incrementally — they don't demand it on day one.*
+
+Every framework, skill, and agent in this repo reflects 15+ years of product leadership in regulated industries — healthcare, cybersecurity, finance — where the cost of getting AI wrong is measured in patient outcomes, financial exposure, and regulatory risk.
+
+---
+
+*Built with Claude Code | Product Edge | AI Accelerate | David Lewis | 2026*
+
