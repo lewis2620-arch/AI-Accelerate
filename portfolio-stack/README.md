@@ -1,54 +1,68 @@
-# Portfolio Stack  
+# Portfolio Stack
 **Workflow-First Agentic AI Systems Delivered in Regulated Industries**
+*David Lewis | Product Edge | AI Accelerate | 2026*
 
-Theme: Turning expert-driven manual workflows into safe, governed, autonomous orchestration layers.
+---
 
-### Core Strategic Identity
-**Positioning**  
-Product leader specializing in reverse-engineering complex operational systems into modular, governed agentic platforms — healthcare, cybersecurity, finance, industrial, and enterprise governance.
+## Strategic Identity
 
-**Thesis**  
-Move organizations from static record systems and dashboards to autonomous workflow infrastructure that operates safely inside regulated environments.
+**Positioning**: Product leader specializing in reverse-engineering complex operational systems into modular, governed agentic platforms — healthcare, cybersecurity, finance, industrial, and enterprise governance.
 
-**Architectural Throughline** (applies to every project)
+**Thesis**: Move organizations from static record systems and dashboards to autonomous workflow infrastructure that operates safely inside regulated environments.
+
+**Architectural Throughline** (applies to every project):
 - Workflow-first design
 - Agentic orchestration with human-in-the-loop guardrails
 - API-first modularity
 - Gold data governance
-- Regulated-industry compliance (HIPAA, SOC2, FDA, etc.)
+- Regulated-industry compliance (HIPAA, SOC2, FDA, OCC)
 - Measurable business outcomes
 
-### 5-Layer Unified Agentic Infrastructure Vision
-1. **Workflow Intelligence** – Context-aware event monitoring  
-2. **Orchestration Engine** – Multi-agent task routing & memory  
-3. **Governance & Gold Data** – Audit trails, drift detection, compliance  
-4. **Modular Agent Mesh** – Specialized agents that compose safely  
-5. **Enterprise Deployment Controls** – Monitoring, escalation, rollback
+---
 
-### Shipped Portfolio (Anonymized)
+## 5-Layer Agentic Infrastructure Vision
 
-#### I. Health-Tech Agentic Stack
-- **EmpowerCare Platform** – Unified digital care layer for a large healthcare network (inpatient/outpatient/pharmacy/patient portal modernization + telehealth integration)
-- **Clinical Workflow Orchestration Agent** – Turns EHR from passive record into active participant
-- **Clinical In-Basket AI Copilot** – Message triage, risk prioritization, draft responses for clinicians
-- **Agentic Discharge & Care Transition Coordinator** – Medication reconciliation, follow-up automation, readmission risk reduction
-- **BackOffice AI Practice Operator** – Revenue cycle, CPT optimization, compliance auditing
-- **Gravitas Surgical Ops Platform** – OR scheduling, supply chain, and margin optimization agents
-- **Agentic Population Health Navigator** – Predictive modeling and chronic care automation
+See /frameworks/agentic-infrastructure.md for full details.
 
-#### II. Enterprise & Cyber Agentic Stack
-- **Sentra AI** – Agentic cybersecurity co-pilot for threat detection and incident response
-- **Polaris** – From document ingestion (v1) to full multi-agent document intelligence platform (v2)
-- **CyberQuant** – GenAI-augmented cyber risk quantification for Big 4 engagements
-- **Helios** – Agentic financial risk monitoring and regulatory reporting
-- **Athena** – Longitudinal patient knowledge graph and care-gap intelligence
-- **Cognite Atlas AI** – Industrial sensor orchestration and predictive maintenance for heavy industry
-- **AgentOps** – Modular agent governance framework (lifecycle, monitoring, safety escalation)
+```
+Layer 5 — Enterprise Deployment Controls
+Layer 4 — Modular Agent Mesh
+Layer 3 — Governance & Gold Data
+Layer 2 — Orchestration Engine
+Layer 1 — Workflow Intelligence
+```
 
-#### III. Product Ops Transformation
-- Product Ops maturity transformations for large healthcare systems and Big 4 consulting practices
-- FITR competitive infiltration framework + Marty Cagan “Transformed” operating model integration
+Every project below maps to one or more of these layers.
 
-**Long-term vision:** A unified open-source Agentic Infrastructure Stack that any regulated organization can adopt.
+---
 
-This portfolio is the living proof that non-engineering PMs can ship real agentic systems at scale. Every project here maps to the frameworks and skills in this repo.
+## Health-Tech Agentic Stack
+
+| Project | Category | File |
+|---|---|---|
+| EmpowerCare Platform | Digital Care Transformation | health-tech/empowercare-platform.md |
+| Clinical In-Basket AI Copilot | Burnout Reduction Agent | health-tech/clinical-in-basket-copilot.md |
+| Agentic Discharge Coordinator | Care Transition Orchestration | health-tech/agentic-discharge-coordinator.md |
+| Gravitas Surgical Ops Platform | Surgical Operations Agent | health-tech/gravitas-surgical-ops.md |
+| Agentic Population Health Navigator | Risk Stratification + VBC | health-tech/population-health-navigator.md |
+
+## Enterprise & Cyber Agentic Stack
+
+| Project | Category | File |
+|---|---|---|
+| Sentra AI | Cybersecurity Co-Pilot | enterprise-cyber/sentra-ai-cyber-copilot.md |
+| Polaris | Agentic Document Intelligence | enterprise-cyber/polaris-document-intelligence.md |
+| Helios | Financial Risk Platform | enterprise-cyber/helios-financial-risk.md |
+| AgentOps | Agent Governance Framework | enterprise-cyber/agentops-governance.md |
+
+---
+
+## Long-Term Vision
+
+A unified open-source Agentic Infrastructure Stack that any regulated organization can adopt. Every project here is a proof point. Every framework here is battle-tested. Every agent here is a template.
+
+This portfolio demonstrates that non-engineering PMs can ship real agentic systems at scale — and that governance is what makes autonomy safe.
+
+---
+*AI Accelerate | David Lewis | 2026*
+
