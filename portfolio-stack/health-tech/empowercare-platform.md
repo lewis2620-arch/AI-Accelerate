@@ -1,16 +1,36 @@
 # EmpowerCare Platform – Large Healthcare Network
 
-**Category:** Digital Care Platform Transformation  
-**North Star:** Unified patient-centric digital care layer across inpatient, outpatient, and portal experiences.  
+**Category:** Digital Care Platform Transformation
+**North Star:** Unified patient-centric digital care layer across inpatient, outpatient, and portal experiences.
 
-**Problem:** Fragmented patient education system entangled across EHR, registration, hardware, and clinical systems.  
+## Problem
+Fragmented patient education system entangled across EHR, registration, hardware, and clinical systems. No single source of truth for patient-facing digital experience.
 
-**Solution:** Full rebuild into integrated platform enabling EHR integration, nurse call coordination, facilities orchestration, pharmacy refill, patient portal modernization, API-first extensibility, and telehealth embedding.  
+## Solution
+Full rebuild into an integrated platform enabling:
+- EHR integration across inpatient and outpatient settings
+- Nurse call coordination
+- Facilities orchestration
+- Pharmacy refill automation
+- Patient portal modernization
+- API-first extensibility
+- Telehealth embedding
 
-**Impact:** Multi-site rollout, enabled rapid crisis response, increased enterprise value prior to transaction.  
+## Impact
+- Multi-site rollout across large healthcare network
+- Enabled rapid crisis response capability
+- Increased enterprise value prior to transaction
 
-**Product Edge Alignment:** EDGE framework (full Empathize → Evolve cycle) + PRISM responsible AI guardrails.  
-**Agentic Extension:** Direct foundation for Clinical Workflow Orchestration Agent (see agents/ folder).  
-**Key Learnings:** Workflow-first design beats feature-first every time; guardrails are what make autonomy safe in regulated environments.  
+## Framework Alignment
+- **EDGE**: Full Empathize → Define → Govern → Evolve cycle
+- **PRISM**: Responsible AI guardrails throughout — clinical stakeholder sign-off required at each phase
+- **Agentic Layer**: Direct foundation for Clinical Workflow Orchestration Agent
 
-**How Others Can Use:** Fork the agentic orchestration pattern in agents/clinical-workflow-orchestrator/ and adapt to your own EHR or operational system.
+## Key Learnings
+Workflow-first design beats feature-first every time. The platform succeeded because we mapped clinical workflows before writing a single line of code. Guardrails are what make autonomy safe in regulated environments.
+
+## Architecture Pattern
+This project established the foundational pattern used across the health-tech stack: API-first integration → workflow mapping → modular agent layer → governance controls.
+
+---
+*AI Accelerate | David Lewis | 2026*
