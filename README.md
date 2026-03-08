@@ -1,9 +1,12 @@
 <p align="center">
   <img src="https://github.com/lewis2620-arch/AI-Accelerate/raw/main/logo/ai-accelerate-logo-v4.png" alt="AI Accelerate Logo" width="300">
+  <br><br>
+  <h1>AI Accelerate</h1>
 </p>
 
-# AI Accelerate
 **The open-source agentic Product Operating System for PMs who build in the real world**
+
+Workflow-first frameworks, MCP-ready skills, real PRDs, and runnable multi-agent prototypes that turn fragmented operations into governed, autonomous systems — especially in regulated industries like healthcare, cybersecurity, finance, and industrial.
 *David Lewis | Product Edge | March 2026*
 
 ---
